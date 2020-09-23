@@ -1,1 +1,14 @@
-Run a.py in cs301 file, after installing required libraries in python.
+
+In any institution, an employee needs to get permission from his/her superior for taking any major action like order-
+ing a new appliance or selecting a new vendor for supplies or for something as simple as taking a leave of absence.
+
+We made a web portal for implementing two use cases of the above described idea, in which any employee of an
+institute can raise an application for leave of absence or for proposing to take a project sponsored by external agencies.
+The system worked on multi-level hierarchies that can be changed any time by system admin. Both functionalities
+of the project had various constraints (like synchronisation of requests, approval and denial system, employee profile
+management etc) which made it interesting to implement.
+
+Read Project_Specification.pdf for detailed info.
+
+For using the project: 
+Run a.py in cs301 folder, after installing required libraries in python.
